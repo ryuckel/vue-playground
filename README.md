@@ -7,6 +7,10 @@
 検証内容(またはライブラリ)ごとにブランチを切っています。
 各ブランチのReadmeには検証対象のライブラリと検証目的は記載しておきます。
 
+# ブランチ
+- tui-image-editor
+  →tui-image-editor(画像編集ライブラリ)検証用
+
 ## Project setup
 ```
 yarn install
