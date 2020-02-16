@@ -838,13 +838,6 @@
     error-stack-parser "^2.0.0"
     string-width "^2.0.0"
 
-"@toast-ui/vue-image-editor@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@toast-ui/vue-image-editor/-/vue-image-editor-1.0.2.tgz#658e5fc8d43d3caaabc2ebd8f3a543d2bea29ebd"
-  integrity sha512-si0ZA26Y1zgDS4lFzKTTGFV5huUSIhFzp5QKQizJLoS1vuTOcwOK0jEwA4NiJ++yeGvtRQSgCWDb6kMJiHDYuw==
-  dependencies:
-    tui-image-editor "~3.3.0"
-
 "@types/color-name@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
@@ -2482,11 +2475,6 @@ core-js-compat@^3.4.4, core-js-compat@^3.6.2:
     browserslist "^4.8.3"
     semver "7.0.0"
 
-core-js@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.4.1.tgz#4de911e667b0eae9124e34254b53aea6fc618d3e"
-  integrity sha1-TekR5mew6ukSTjQlS1OupvxhjT4=
-
 core-js@^3.4.4:
   version "3.6.4"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.6.4.tgz#440a83536b458114b9cb2ac1580ba377dc470647"
@@ -3618,11 +3606,6 @@ file-loader@^4.2.0:
   dependencies:
     loader-utils "^1.2.3"
     schema-utils "^2.5.0"
-
-file-saver@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/file-saver/-/file-saver-2.0.2.tgz#06d6e728a9ea2df2cce2f8d9e84dfcdc338ec17a"
-  integrity sha512-Wz3c3XQ5xroCxd1G8b7yL0Ehkf0TC9oYC6buPFkNnU9EnaPlifeAFCyCh+iewXTyFRcg0a6j3J7FmJsIhlhBdw==
 
 file-uri-to-path@1.0.0:
   version "1.0.0"
@@ -8072,32 +8055,6 @@ tty-browserify@0.0.0:
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/tty-browserify/-/tty-browserify-0.0.0.tgz#a157ba402da24e9bf957f9aa69d524eed42901a6"
   integrity sha1-oVe6QC2iTpv5V/mqadUk7tQpAaY=
-
-tui-code-snippet@^1.5.0:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/tui-code-snippet/-/tui-code-snippet-1.5.2.tgz#f4b8f0f1ac996b0b5b621f77c9507af19a0de238"
-  integrity sha512-6UqTlQaaC1KLcmC0HAoq5dtl1G4Fib+R+NC7pmaV7kiIlZ7JqKhUmnOoGRcreAyzd81UTK/vCvhrw9QJskpCFQ==
-
-tui-code-snippet@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/tui-code-snippet/-/tui-code-snippet-2.2.0.tgz#969af71a9e79c60d13d234604460b073bd75b06e"
-  integrity sha512-d2xS3f5m9CqOXI8R5anwr0kRQai4nVJ96pVNz0AEDZ0FCsi++45EXEBOZxhYbO2deOAXfkGO6HRlXKOy9ByFlw==
-
-tui-color-picker@^2.2.0:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/tui-color-picker/-/tui-color-picker-2.2.6.tgz#bab54e47380e550bb3ac8ae974021b3cc2518aa9"
-  integrity sha512-+GBTUFGOkDaFiyYt/4IJTKA68Oj7fC9lU+RHs56luyFHYSO3gWuvsZntxAvFFeCGiZFFhu9XQQaZ0rVS5TUOmA==
-  dependencies:
-    tui-code-snippet "^2.2.0"
-
-tui-image-editor@~3.3.0:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/tui-image-editor/-/tui-image-editor-3.3.1.tgz#c907cf57ab56ec6ec8a39960b237767cc34159c1"
-  integrity sha512-hcFuC2O70Ez3QDsfbg+EjlOlZl0EXyjlExl6pX6lcSLTyVNvGGhki/XRbAwcxpPeUJNj87I8nqk5zngqAxaJUA==
-  dependencies:
-    core-js "2.4.1"
-    tui-code-snippet "^1.5.0"
-    tui-color-picker "^2.2.0"
 
 tunnel-agent@^0.6.0:
   version "0.6.0"
