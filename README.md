@@ -14,7 +14,9 @@
 - tui-image-editor
   →tui-image-editor(画像編集ライブラリ)検証用
 - vue-image-lightbox
-  画像のスライドショーを作成するための機能を提供しているライブラリの検証ブランチ
+  →画像のスライドショーを作成するための機能を提供しているライブラリの検証ブランチ
+- vue-chartjs
+　→グラフ可視化用ライブラリの検証
 
 ## Project setup
 
