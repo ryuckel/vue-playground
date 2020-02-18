@@ -1,11 +1,14 @@
 <template>
-	<div id="app"></div>
+	<div id="app">
+		<LightBox />
+	</div>
 </template>
 
 <script>
+import LightBox from '@/components/LightBox';
 export default {
 	name: 'app',
-	components: {}
+	components: { LightBox }
 };
 </script>
 
