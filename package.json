@@ -10,7 +10,9 @@
   "dependencies": {
     "buefy": "^0.8.0",
     "core-js": "^3.4.4",
-    "vue": "^2.6.10"
+    "heatmap.js": "^2.0.5",
+    "vue": "^2.6.10",
+    "vue-heatmapjs": "^1.5.0-0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
