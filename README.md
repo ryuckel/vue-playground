@@ -20,6 +20,10 @@ UIコンポーネントはBuefyを使用
 　→グラフ可視化用ライブラリの検証
   →jsPDFも併せて確認予定
 
+## 検証予定
+- D3.js
+- three.js
+
 ## Project setup
 
 ```
